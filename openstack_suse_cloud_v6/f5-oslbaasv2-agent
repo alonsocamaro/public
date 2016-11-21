@@ -11,8 +11,6 @@
 # Description:          Provides the F5® OpenStack agent to configure BIG-IP®
 ### END INIT INFO
 
-set -x
-
 PROJECT_NAME=neutron
 NAME=f5-oslbaasv2-agent
 SERVICE=f5-oslbaasv2-agent
